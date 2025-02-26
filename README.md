@@ -1,5 +1,4 @@
-# Orange-Data-Mining
-## Previsão de Cancelamento de Clientes em Serviços de Streaming com Orange Data Mining
+# Previsão de Cancelamento de Clientes em Serviços de Streaming com Orange Data Mining
 
 # Análise de Churn e Estratégias de Retenção
 ## 1. Principais fatores que levam ao cancelamento:
